@@ -1,0 +1,13 @@
+
+.Piano{
+  display: inline-block;
+  width: 90%;
+  text-align: auto;
+  margin:0px 0px 0px 80px;
+}
+.chat{
+  display: inline-block;
+  text-align: auto;
+  width: 10%;
+  margin:0px 0px 0px 0px;
+}
