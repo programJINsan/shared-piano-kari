@@ -1,15 +1,25 @@
 {
-  "name": "chat",
+  "name": "shared-piano-kari",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^3.0.3"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programJINsan/shared-piano-kari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programJINsan/shared-piano-kari/issues"
+  },
+  "homepage": "https://github.com/programJINsan/shared-piano-kari#readme"
 }
